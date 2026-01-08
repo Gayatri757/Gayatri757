@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Gayatri 👋
 
-<!--
-**Gayatri757/Gayatri757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI & Data Science student interested in web and software development.
 
-Here are some ideas to get you started:
+### Projects
+- **Safe Route** – A crime-aware navigation system that recommends safer routes using crime data and clustering techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- JavaScript
+- HTML, CSS
+
+### Currently
+- Practicing JavaScript projects
+- Building my portfolio website
+- Learning Machine Learning basics
+
+This GitHub contains my learning and practice projects.
